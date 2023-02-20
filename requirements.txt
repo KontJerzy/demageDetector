@@ -1,0 +1,8 @@
+matplotlib
+geopandas
+opencv-python
+requests
+mrcnn
+scikit-image
+keras==2.11.0
+tensorflow==2.11.2
